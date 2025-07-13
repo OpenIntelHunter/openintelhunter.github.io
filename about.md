@@ -4,9 +4,9 @@ title: "About OpenIntelHunter"
 permalink: /about/
 ---
 
-## 👋 About Me
+## About Me
 
-I'm **Walter Spinelli**, an aspiring cybersecurity analyst and the mind behind **OpenIntelHunter**.
+I'm **Walter**, an aspiring cybersecurity analyst and the mind behind **OpenIntelHunter**.
 
 With over 15 years of experience in IT support — managing Windows, macOS, M365, Active Directory, and remote environments — I've developed a deep technical foundation. But my growing passion lies in **OSINT (Open Source Intelligence)** and **SCADA/ICS cybersecurity**.
 
@@ -16,7 +16,7 @@ This isn’t about hacking — it’s about **visibility**, **awareness**, and p
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 - 🔍 Passive OSINT scanning & SCADA surface analysis  
 - 🔐 Research into ICS security flaws & critical infrastructure exposure  
@@ -25,13 +25,12 @@ This isn’t about hacking — it’s about **visibility**, **awareness**, and p
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 If your organization runs SCADA/ICS infrastructure and wants to understand what’s already exposed — I can help. I use public tools and pattern analysis to see what others might miss.
-
-- 📧 Email: walter.spinelli.it@gmail.com  
+ 
 - 🧠 GitHub: [OpenIntelHunter](https://github.com/OpenIntelHunter)  
-- 🌍 Based in Costa Rica | Fluent in English, Spanish, Italian  
+- 🌍 Fluent in English, Spanish, Italian and learning Chinese Mandarin 
 - ✅ Open to remote security consulting & research opportunities
 
 ---

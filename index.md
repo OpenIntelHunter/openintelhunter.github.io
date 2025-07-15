@@ -1,6 +1,5 @@
 ---
-layout: default
-title: SCADA Recon - Port 4443 Exposure
+SCADA Recon - Port 4443 Exposure
 ---
 
 # 🔍 Industrial Control Systems: Port 4443 OSINT Recon

@@ -2,9 +2,6 @@
 layout: post
 title: "OpenIntelHunter — OSINT & SCADA Recon"
 ---
-
----
-layout: default
 title: SCADA OSINT Exposure – July 2025
 ---
 

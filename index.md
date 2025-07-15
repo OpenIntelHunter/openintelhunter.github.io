@@ -1,3 +1,5 @@
+📖 [View the live Recon Log →](./recon-log.html)
+
 Ongoing SCADA Recon – Exposing ICS Systems in the Wild
 
 # Industrial Control Systems: Port 4443 Recon (Ongoing)

@@ -1,29 +1,34 @@
-SCADA Recon - Port 4443 Exposure
+Ongoing SCADA Recon – Exposing ICS Systems in the Wild
 
-# Industrial Control Systems: Port 4443 OSINT Recon
-_OpenIntelHunter is an independent recon and disclosure project tracking exposed ICS/SCADA systems worldwide._
 
-In July 2025, I conducted a passive reconnaissance effort focused on ICS/SCADA systems with exposed management interfaces.
+# 🔍 Industrial Control Systems: Port 4443 Recon (Ongoing)
 
-## Key Findings
+_OpenIntelHunter is a continuously evolving passive reconnaissance project focused on ICS/SCADA systems exposed on the public internet._
 
-- Publicly accessible devices exposing **port 4443** (commonly used for HTTPS).
-- Multiple instances identified with **expired/self-signed certificates**.
-- Some servers exposed `Schneider-Electric` headers and legacy HMI portals.
-- Weak security practices — outdated software, default login pages, and no geo/IP restrictions.
-- Targets ranged from **building automation** to **industrial control panels**.
+This project documents real-world control systems with publicly accessible interfaces, misconfigurations, and outdated industrial technologies — observed through passive OSINT techniques.
+
+---
+## Current Highlights
+
+- Monitoring port **4443** for exposed interfaces in industrial environments
+- Identifying targets with **self-signed TLS certs**, legacy web panels, and unsecured remote access
+- Common vendor fingerprints: `Schneider-Electric`, `zenon`, `Indusoft`, and more
+- Evidence includes full request headers, screenshots, and metadata
 
 ## Evidence Repository
 
-Detailed screenshots, fingerprints, and source IP data are archived here:  
+All findings, artifacts, and fingerprints are updated frequently:  
 👉 [Responsible Disclosures](https://github.com/OpenIntelHunter/responsible-disclosures)
 
-## Why It Matters
+---
+## Why This Matters
 
-SCADA systems are critical, yet often exposed due to misconfigurations or poor vendor defaults. This effort reinforces the need for passive recon and responsible disclosure.
+ICS/SCADA systems often claim to be air-gapped — yet time and again, OSINT reveals otherwise. This project exists to raise awareness, aid responsible disclosures, and push vendors toward real security.
 
 ---
+### Stay Tuned
 
-*OpenIntelHunter – OSINT-driven ICS awareness & advocacy.*
+More ports, more fingerprints, more real-world exposures.  
+Follow this page for future posts or reach out for collaboration or private disclosure.
 
-For consulting or disclosure requests, contact me via GitHub.
+_OpenIntelHunter – OSINT-driven ICS awareness & advocacy._

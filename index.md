@@ -1,29 +1,31 @@
 ---
-layout: post
-title: "OpenIntelHunter — OSINT & SCADA Recon"
----
-title: SCADA OSINT Exposure – July 2025
+layout: default
+title: SCADA Recon - Port 4443 Exposure
 ---
 
-# SCADA Recon: Port 4443 Findings
+# 🔍 Industrial Control Systems: Port 4443 OSINT Recon
 
-In July 2025, a passive reconnaissance operation revealed a series of industrial systems exposing port `4443` to the public internet.
+In July 2025, I conducted a passive reconnaissance effort focused on ICS/SCADA systems with exposed management interfaces.
 
-## Key Findings
+## 🧠 Key Findings
 
-- ✅ Devices found running on port `4443`
-- 🛑 Most using self-signed or expired TLS certificates
-- ⚠️ Some still responded with `Server: Schneider-Electric` headers
-- 🚨 Many endpoints led to outdated HMI web interfaces (e.g., Citect, zenon, Indusoft)
+- Publicly accessible devices exposing **port 4443** (commonly used for HTTPS).
+- Multiple instances identified with **expired/self-signed certificates**.
+- Some servers exposed `Schneider-Electric` headers and legacy HMI portals.
+- Weak security practices — outdated software, default login pages, and no geo/IP restrictions.
+- Targets ranged from **building automation** to **industrial control panels**.
 
-## Screenshots & Evidence
+## 📁 Evidence Repository
 
-Artifacts are stored in the [responsible-disclosures](https://github.com/OpenIntelHunter/responsible-disclosures) repo.
+Detailed screenshots, fingerprints, and source IP data are archived here:  
+👉 [Responsible Disclosures](https://github.com/OpenIntelHunter/responsible-disclosures)
 
-## Intent
+## 🎯 Why It Matters
 
-This post highlights the lack of secure configurations and visibility in ICS/SCADA systems — a reminder that air-gaps are often myths.
+SCADA systems are critical, yet often exposed due to misconfigurations or poor vendor defaults. This effort reinforces the need for passive recon and responsible disclosure.
 
 ---
 
-📧 For consulting or responsible disclosure inquiries, contact via GitHub.
+🧠 *OpenIntelHunter – OSINT-driven ICS awareness & advocacy.*
+
+📬 For consulting or disclosure requests, contact me via GitHub.

@@ -1,7 +1,6 @@
 Ongoing SCADA Recon – Exposing ICS Systems in the Wild
 
-
-# 🔍 Industrial Control Systems: Port 4443 Recon (Ongoing)
+# Industrial Control Systems: Port 4443 Recon (Ongoing)
 
 _OpenIntelHunter is a continuously evolving passive reconnaissance project focused on ICS/SCADA systems exposed on the public internet._
 

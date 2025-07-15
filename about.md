@@ -18,10 +18,10 @@ This isn’t about hacking — it’s about **visibility**, **awareness**, and p
 
 ## What I Do
 
-- 🔍 Passive OSINT scanning & SCADA surface analysis  
-- 🔐 Research into ICS security flaws & critical infrastructure exposure  
-- 📄 Writing detailed breakdowns of real-world findings  
-- 🌐 Sharing responsible disclosure reports via GitHub
+- * Passive OSINT scanning & SCADA surface analysis  
+- * Research into ICS security flaws & critical infrastructure exposure  
+- * Writing detailed breakdowns of real-world findings  
+- * Sharing responsible disclosure reports via GitHub
 
 ---
 
@@ -29,9 +29,9 @@ This isn’t about hacking — it’s about **visibility**, **awareness**, and p
 
 If your organization runs SCADA/ICS infrastructure and wants to understand what’s already exposed — I can help. I use public tools and pattern analysis to see what others might miss.
  
-- 🧠 GitHub: [OpenIntelHunter](https://github.com/OpenIntelHunter)  
-- 🌍 Fluent in English, Spanish, Italian and learning Chinese Mandarin 
-- ✅ Open to remote security consulting & research opportunities
+- * GitHub: [OpenIntelHunter](https://github.com/OpenIntelHunter)  
+- * Fluent in English, Spanish, Italian and learning Chinese Mandarin 
+- * Open to remote security consulting & research opportunities
 
 ---
 

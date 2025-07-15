@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recon Log | OpenIntelHunter</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #111;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.3rem;
+    }
+    .entry {
+      background: #fff;
+      border-left: 4px solid #0077cc;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    .entry h2 {
+      margin-top: 0;
+      color: #0077cc;
+    }
+    .entry time {
+      display: block;
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 0.5rem;
+    }
+    footer {
+      margin-top: 3rem;
+      font-size: 0.8rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>📡 Passive Recon Feed</h1>
+
+  <div class="entry">
+    <time datetime="2025-07-14">July 14, 2025</time>
+    <h2>Port 4443 - Schneider-Electric Exposures</h2>
+    <p>15+ Schneider-Electric systems exposing port 4443, many with expired TLS certs and legacy zenon HMI panels accessible without authentication.</p>
+  </div>
+
+  <div class="entry">
+    <time datetime="2025-07-12">July 12, 2025</time>
+    <h2>Indusoft Panels on Port 8080</h2>
+    <p>Discovered six Indusoft HMI web servers publicly reachable on port 8080. None required login. Devices identified in Latin America and Southeast Asia.</p>
+  </div>
+
+  <div class="entry">
+    <time datetime="2025-07-10">July 10, 2025</time>
+    <h2>BACnet Gear Running 2014 Firmware</h2>
+    <p>Shodan index revealed BACnet building automation systems exposing unauthenticated interfaces and outdated firmware — security risk to critical facilities.</p>
+  </div>
+
+  <div class="entry">
+    <time datetime="2025-07-08">July 8, 2025</time>
+    <h2>Niagara Panels with Default Logins</h2>
+    <p>Four Niagara building control interfaces accessible with default credentials (`admin:admin`) via HTTP. No geo-IP or ACL restrictions in place.</p>
+  </div>
+
+  <footer>
+    OpenIntelHunter © 2025 – Ongoing OSINT Reconnaissance | <a href="https://github.com/OpenIntelHunter/responsible-disclosures">Responsible Disclosures</a>
+  </footer>
+</body>
+</html>

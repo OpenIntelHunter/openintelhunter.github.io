@@ -1,6 +1,6 @@
 SCADA Recon - Port 4443 Exposure
 
-# 🔍 Industrial Control Systems: Port 4443 OSINT Recon
+# Industrial Control Systems: Port 4443 OSINT Recon
 _OpenIntelHunter is an independent recon and disclosure project tracking exposed ICS/SCADA systems worldwide._
 
 In July 2025, I conducted a passive reconnaissance effort focused on ICS/SCADA systems with exposed management interfaces.

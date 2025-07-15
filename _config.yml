@@ -1,4 +1,13 @@
 title: OpenIntelHunter
-author: Walter Spinelli
+author: Walter S.
 description: Passive Recon & OSINT Findings
 theme: minima
+
+
+nav:
+  - title: Home
+    url: /
+  - title: Recon Log
+    url: /recon-log/
+  - title: Disclosures
+    url: https://github.com/OpenIntelHunter/responsible-disclosures

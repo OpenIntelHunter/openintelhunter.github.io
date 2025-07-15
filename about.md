@@ -18,10 +18,10 @@ This isn’t about hacking — it’s about **visibility**, **awareness**, and p
 
 ## What I Do
 
-- * Passive OSINT scanning & SCADA surface analysis  
-- * Research into ICS security flaws & critical infrastructure exposure  
-- * Writing detailed breakdowns of real-world findings  
-- * Sharing responsible disclosure reports via GitHub
+* Passive OSINT scanning & SCADA surface analysis  
+* Research into ICS security flaws & critical infrastructure exposure  
+* Writing detailed breakdowns of real-world findings  
+* Sharing responsible disclosure reports via GitHub
 
 ---
 
